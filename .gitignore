@@ -1,0 +1,10 @@
+out/
+cache/
+broadcast/
+lib/
+*.log
+.env
+*.key
+.deployer.*
+.bsc-deployer.*
+.keys/

@@ -1,0 +1,122 @@
+{
+ "TSLA": {
+  "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+  "name": "Tesla \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "5831441922563418112",
+  "usd": 404.46
+ },
+ "NVDA": {
+  "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+  "name": "NVIDIA \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0007751591646306,
+  "v0": "10941817806448908288",
+  "usd": 215.55696153246976
+ },
+ "AAPL": {
+  "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+  "name": "Apple \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0005660800610925,
+  "v0": "6855262628488729600",
+  "usd": 344.0546522898073
+ },
+ "SPY": {
+  "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+  "name": "SPDR S&P 500 ETF Trust \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.001717991187472,
+  "v0": "3048697959582146560",
+  "usd": 773.6368217739965
+ },
+ "QQQ": {
+  "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
+  "name": "Invesco QQQ \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0007007912414054,
+  "v0": "3248791533604700160",
+  "usd": 725.9884100298149
+ },
+ "MSTR": {
+  "address": "0xec262a75e413fAfD0dF80480274532C79D42da09",
+  "name": "Strategy Inc. \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "16241461231235366912",
+  "usd": 145.22
+ },
+ "COIN": {
+  "address": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
+  "name": "Coinbase \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "14524200997598375936",
+  "usd": 162.39
+ },
+ "GOOGL": {
+  "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+  "name": "Alphabet Class A \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0001939244141127,
+  "v0": "7241739709078064128",
+  "usd": 325.6931476069675
+ },
+ "AMZN": {
+  "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+  "name": "Amazon \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "9262065580208128000",
+  "usd": 254.65
+ },
+ "META": {
+  "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+  "name": "Meta Platforms \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0005414598794518,
+  "v0": "3849264150297819648",
+  "usd": 612.7365927374756
+ },
+ "MSFT": {
+  "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+  "name": "Microsoft \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.000412952576206,
+  "v0": "4433850672881207296",
+  "usd": 531.949579273346
+ },
+ "PLTR": {
+  "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+  "name": "Palantir Technologies \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "11982853223593963520",
+  "usd": 196.83
+ },
+ "AMD": {
+  "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+  "name": "AMD \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "4076294913672421888",
+  "usd": 578.61
+ },
+ "GME": {
+  "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+  "name": "GameStop \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "101074994643239763968",
+  "usd": 23.335
+ },
+ "CRCL": {
+  "address": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
+  "name": "Circle Internet Group \u2022 Robinhood Token",
+  "decimals": 18,
+  "mult": 1.0,
+  "v0": "28856487428886032384",
+  "usd": 81.735
+ }
+}
