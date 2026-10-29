@@ -25,3 +25,4 @@ Deploy scripts read the deployer key from a local, git-ignored file. Never commi
 - Launchpad: `0x0A1Ff578b7D1Fa9844E26DE415dF7319447bc4Ce`
 - Bridge: `0x48C106bd1CB291e952937053e590D0B318F3Ad85`
 - Holder rewards: `0xb1b47F59EE240e45f980098d56Db30FeFce21EF2`
+- RunehoodZap (buy/sell stock-paired Runes with ETH): `0xdF14e44557a6DBF4f7856a952872B30aB7541FfD`
